@@ -3,7 +3,7 @@ Light version of the Nord theme
 
 See: https://www.nordtheme.com/
 
-I like my terminal to change theme when I ssh into another machine. I have been using Solarized Light and Solarized Dark to facilitate this for some time. But now I have gotten hooked on Nord which as no light version.
+I like my terminal to change theme when I ssh into another machine. I have been using Solarized Light and Solarized Dark to facilitate this for some time. But now I have gotten hooked on Nord which has no light version.
 
 There are notes about a "bright ambiance" version of the theme in the core docs - https://www.nordtheme.com/docs/colors-and-palettes - but no actual themes available.
 
